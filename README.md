@@ -2,7 +2,7 @@
 
 ## App Screenshot:
 
-![App Screenshot]()
+![App Screenshot](https://github.com/priyanshusharma44/7-Flutter_Icon/blob/main/Screenshot%202023-12-16%20204602.png)
 
 ## Overview:
 The "Flutter Icon Practice App" is a simple Flutter project designed to help you practice using icons and buttons in Flutter. This app showcases a variety of Flutter widgets, including `Icon`, `ElevatedButton`, and `IconButton`.
